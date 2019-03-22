@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-cambiado again
-=======
+ambiado again
 mi cambio en la rama
-otro cambio
->>>>>>> 47d9cab85b8bb318470da777e7e01e20461580fe
